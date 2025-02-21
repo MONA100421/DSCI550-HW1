@@ -4,7 +4,16 @@
 This project analyzes the **Haunted Places Dataset** by integrating additional datasets to explore patterns in paranormal activity. We use **Apache Tika** and **Tika Similarity** for data extraction, enhancement, and similarity analysis.
 
 ---
-## 2. Objectives
+## 2. Team Members
+- **Chen Yi Weng** (wengchen@usc.edu)
+- **Aadarsh Sudhir Ghiya** (aadarshs@usc.edu)
+- **Zili Yang** (ziliy@usc.edu)
+- **Niromikha Jayakumar** (njayakum@usc.edu)
+- **Yung Yee Chia** (yungyeec@usc.edu)
+- **Colin Leahey** (cleahey@usc.edu)
+
+---
+## 3. Objectives
 - Process and enhance the Haunted Places dataset.
 - Extract new features such as evidence types, event details, and timestamps.
 - Integrate three additional datasets of different MIME types.
@@ -12,7 +21,7 @@ This project analyzes the **Haunted Places Dataset** by integrating additional d
 - Generate a final dataset and analysis report.
 
 ---
-## 3. Environment & Dependencies
+## 4. Environment & Dependencies
 
 ### **(1) Required Tools & Libraries**
 - **Python 3.x**
@@ -28,7 +37,7 @@ pip install pandas tika tika-similarity datefinder number-parser
 ```
 
 ---
-## 4. File Structure
+## 5. File Structure
 ```
 ├── Data/
 │   ├── haunted_places.tsv
@@ -49,7 +58,7 @@ pip install pandas tika tika-similarity datefinder number-parser
 ```
 
 ---
-## 5. Execution Steps
+## 6. Execution Steps
 
 ### **(1) Convert CSV to TSV**
 ```bash
