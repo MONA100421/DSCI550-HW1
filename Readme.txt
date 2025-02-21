@@ -1,4 +1,4 @@
-# README - DSCI 550: BIGDATA Haunted Places Analysis
+# DSCI 550: BIGDATA Haunted Places Analysis
 
 ## 1. Overview
 This project analyzes the **Haunted Places Dataset** by integrating additional datasets to explore patterns in paranormal activity. We use **Apache Tika** and **Tika Similarity** for data extraction, enhancement, and similarity analysis.
