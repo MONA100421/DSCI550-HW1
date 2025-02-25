@@ -1,0 +1,9 @@
+tika
+number-parser
+datefinder
+pandas
+numpy
+scipy
+jupyter
+seaborn
+matplotlib
