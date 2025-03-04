@@ -1,7 +1,7 @@
-# DSCI 550: BIGDATA Haunted Places Analysis
+# TEAM3-DSCI 550: BIGDATA Haunted Places Analysis
 
 ## 1. Overview
-This project explores the **Haunted Places Dataset**, integrating additional datasets to analyze paranormal activity patterns. The dataset consists of **21,983 rows and 10 columns** containing location-based and descriptive data. The goal is to preprocess, extract features, merge multiple datasets, and conduct similarity analysis using **Apache Tika** and **Tika Similarity**.
+This project analyzes the **Haunted Places Dataset** by integrating additional datasets to explore patterns in paranormal activity. We use **Apache Tika** and **Tika Similarity** for data extraction, enhancement, and similarity analysis.
 
 ---
 ## 2. Team Members
@@ -14,12 +14,11 @@ This project explores the **Haunted Places Dataset**, integrating additional dat
 
 ---
 ## 3. Objectives
-- **Data Cleaning**: Remove missing values and incorrect entries.
-- **Enhance Geographic Data**: Add county-level location information.
-- **Feature Extraction**: Extract haunted evidence types, event details, and timestamps.
-- **Dataset Integration**: Merge at least three external datasets of different **MIME types**.
-- **Similarity Analysis**: Use **Tika Similarity** for clustering and pattern detection.
-- **Final Report**: Generate a dataset and an analysis report.
+- Process and enhance the Haunted Places dataset.
+- Extract new features such as evidence types, event details, and timestamps.
+- Integrate three additional datasets of different MIME types.
+- Perform similarity analysis using **Tika Similarity**.
+- Generate a final dataset and analysis report.
 
 ---
 ## 4. Environment & Dependencies
