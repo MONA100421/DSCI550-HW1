@@ -1,16 +1,16 @@
 # DSCI 550: BIGDATA Haunted Places Analysis
 
 ## 1. Overview
-This project analyzes the **Haunted Places Dataset** by integrating additional datasets to explore patterns in paranormal activity. We use **Apache Tika** and **Tika Similarity** for data extraction, enhancement, and similarity analysis.
+This project explores the **Haunted Places Dataset**, integrating additional datasets to analyze paranormal activity patterns. The dataset consists of **21,983 rows and 10 columns** containing location-based and descriptive data. The goal is to preprocess, extract features, merge multiple datasets, and conduct similarity analysis using **Apache Tika** and **Tika Similarity**.
 
 ---
 ## 2. Team Members
-- **Chen Yi Weng** (wengchen@usc.edu)
-- **Aadarsh Sudhir Ghiya** (aadarshs@usc.edu)
-- **Zili Yang** (ziliy@usc.edu)
-- **Niromikha Jayakumar** (njayakum@usc.edu)
-- **Yung Yee Chia** (yungyeec@usc.edu)
-- **Colin Leahey** (cleahey@usc.edu)
+- **Chen Yi Weng** ([wengchen@usc.edu](mailto:wengchen@usc.edu))
+- **Aadarsh Sudhir Ghiya** ([aadarshs@usc.edu](mailto:aadarshs@usc.edu))
+- **Zili Yang** ([ziliy@usc.edu](mailto:ziliy@usc.edu))
+- **Niromikha Jayakumar** ([njayakum@usc.edu](mailto:njayakum@usc.edu))
+- **Yung Yee Chia** ([yungyeec@usc.edu](mailto:yungyeec@usc.edu))
+- **Colin Leahey** ([cleahey@usc.edu](mailto:cleahey@usc.edu))
 
 ---
 ## 3. Objectives
@@ -24,7 +24,7 @@ This project analyzes the **Haunted Places Dataset** by integrating additional d
 ---
 ## 4. Environment & Dependencies
 
-### **(1) Required Tools & Libraries**
+### **(1) Required Libraries**
 - **Python 3.x**
 - **Pandas** (Data processing)
 - **Apache Tika & Tika-Python** (Text analysis)
@@ -41,22 +41,26 @@ pip install pandas tika tika-similarity datefinder number-parser numpy scipy mat
 ---
 ## 5. File Structure
 ```
-├── Data/
+📂 Project Root
+│── 📂 Data
 │   ├── haunted_places.csv
+│
+│── 📂 Source Code
+│   ├── Preprocess.ipynb
+│   ├── Script1.py
 │   ├── alcohol_abuse.tsv
 │   ├── daylight_hours_full.tsv
+│   ├── haunted_places.tsv
 │   ├── haunted_places_with_alcohol.tsv
-│   ├── haunted_places_with_alcohol_daylight.tsv
+│   ├── haunted_places_with_alcohol_d...
+│   ├── notebook w_4GI.ipynb
+│   ├── notebook.ipynb
 │
-├── Source Code/
-│   ├── Preprocess.ipynb  # Data Cleaning & Preprocessing Notebook
-│   ├── Script1.py        # Feature Extraction & Integration
-│   ├── README.md         # Project Documentation
-│   ├── Requirements.txt  # Dependencies
-│
-├── Report.pdf  # Final Report
+│── README.md
+│── Readme.txt
+│── Requirements.txt
+│── TEAM3_BIGDATA.pdf
 ```
-
 ---
 ## 6. Execution Steps
 
@@ -65,19 +69,15 @@ pip install pandas tika tika-similarity datefinder number-parser numpy scipy mat
 jupyter notebook Source Code/Preprocess.ipynb
 ```
 
-
 ### **(2) Feature Extraction & Dataset Merging**
 ```bash
 python Source Code/Script1.py
 ```
-
 
 ### **(3) Similarity Analysis (Optional)**
 ```bash
 python Source Code/similarity_analysis.py
 ```
 
-
 ### **(4) Generate Final Report**
 The final report will summarize findings, patterns, and visualizations.
-
