@@ -14,11 +14,12 @@ This project analyzes the **Haunted Places Dataset** by integrating additional d
 
 ---
 ## 3. Objectives
-- Process and enhance the Haunted Places dataset.
-- Extract new features such as evidence types, event details, and timestamps.
-- Integrate three additional datasets of different MIME types.
-- Perform similarity analysis using **Tika Similarity**.
-- Generate a final dataset and analysis report.
+- **Data Cleaning**: Remove missing values and incorrect entries.
+- **Enhance Geographic Data**: Add county-level location information.
+- **Feature Extraction**: Extract haunted evidence types, event details, and timestamps.
+- **Dataset Integration**: Merge at least three external datasets of different **MIME types**.
+- **Similarity Analysis**: Use **Tika Similarity** for clustering and pattern detection.
+- **Final Report**: Generate a dataset and an analysis report.
 
 ---
 ## 4. Environment & Dependencies
@@ -30,59 +31,53 @@ This project analyzes the **Haunted Places Dataset** by integrating additional d
 - **Tika Similarity** (Data similarity)
 - **Datefinder** (Extract dates)
 - **Number Parser** (Extract numbers)
+- **NumPy, SciPy, Matplotlib, Seaborn** (Visualization & statistical analysis)
 
 ### **(2) Installation**
 ```bash
-pip install pandas tika tika-similarity datefinder number-parser
+pip install pandas tika tika-similarity datefinder number-parser numpy scipy matplotlib seaborn
 ```
 
 ---
 ## 5. File Structure
 ```
 ├── Data/
-│   ├── haunted_places.tsv
-│   ├── dataset1.csv
-│   ├── dataset2.json
-│   ├── dataset3.xml
+│   ├── haunted_places.csv
+│   ├── alcohol_abuse.tsv
+│   ├── daylight_hours_full.tsv
+│   ├── haunted_places_with_alcohol.tsv
+│   ├── haunted_places_with_alcohol_daylight.tsv
 │
 ├── Source Code/
-│   ├── preprocess.py
-│   ├── feature_extraction.py
-│   ├── dataset_merging.py
-│   ├── similarity_analysis.py
-│   ├── visualization.ipynb
+│   ├── Preprocess.ipynb  # Data Cleaning & Preprocessing Notebook
+│   ├── Script1.py        # Feature Extraction & Integration
+│   ├── README.md         # Project Documentation
+│   ├── Requirements.txt  # Dependencies
 │
-├── Report.pdf
-├── README.txt
-├── Requirements.txt
+├── Report.pdf  # Final Report
 ```
 
 ---
 ## 6. Execution Steps
 
-### **(1) Convert CSV to TSV**
+### **(1) Data Cleaning & Preprocessing**
 ```bash
-python Source Code/preprocess.py
+jupyter notebook Source Code/Preprocess.ipynb
 ```
 
-### **(2) Feature Extraction**
+
+### **(2) Feature Extraction & Dataset Merging**
 ```bash
-python Source Code/feature_extraction.py
+python Source Code/Script1.py
 ```
 
-### **(3) Merge Additional Datasets**
-```bash
-python Source Code/dataset_merging.py
-```
 
-### **(4) Similarity Analysis**
+### **(3) Similarity Analysis (Optional)**
 ```bash
 python Source Code/similarity_analysis.py
 ```
 
-### **(5) Visualization (Optional)**
-```bash
-jupyter notebook Source Code/visualization.ipynb
-```
 
+### **(4) Generate Final Report**
+The final report will summarize findings, patterns, and visualizations.
 
