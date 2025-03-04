@@ -35,9 +35,8 @@ This project explores the **Haunted Places Dataset**, integrating additional dat
 
 ### **(2) Installation**
 ```bash
-pip install pandas tika tika-similarity datefinder number-parser numpy scipy matplotlib seaborn
+pip install -r Requirements.txt
 ```
-
 ---
 ## 5. File Structure
 ```
