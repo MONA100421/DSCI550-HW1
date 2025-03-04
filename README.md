@@ -40,18 +40,17 @@ pip install -r Requirements.txt
 ---
 ## 5. File Structure
 ```
-📂 Project Root
-│── 📂 Data
+│── Data/
 │   ├── haunted_places.csv
 │
-│── 📂 Source Code
-│   ├── Preprocess.ipynb
+│── Source Code/
+│   ├── Preprocess.ipynb # Data Cleaning & Preprocessing Notebook
 │   ├── Script1.py
 │   ├── alcohol_abuse.tsv
 │   ├── daylight_hours_full.tsv
 │   ├── haunted_places.tsv
 │   ├── haunted_places_with_alcohol.tsv
-│   ├── haunted_places_with_alcohol_d...
+│   ├── haunted_places_with_alcohol_daylight.tsv
 │   ├── notebook w_4GI.ipynb
 │   ├── notebook.ipynb
 │
