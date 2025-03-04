@@ -69,13 +69,17 @@ jupyter notebook Source Code/Preprocess.ipynb
 
 ### **(2) Feature Extraction & Dataset Merging**
 ```bash
-python Source Code/Script1.py
+jupyter notebook Source Code/feature_extraction.ipynb
 ```
 
 ### **(3) Similarity Analysis (Optional)**
 ```bash
-python Source Code/similarity_analysis.py
+jupyter notebook Source Code/similarity_analysis.ipynb
+
+### **(4) Visualization (Optional)**
+```bash
+jupyter notebook Source Code/visualization.ipynb
 ```
 
-### **(4) Generate Final Report**
+### **(5) Generate Final Report**
 The final report will summarize findings, patterns, and visualizations.
