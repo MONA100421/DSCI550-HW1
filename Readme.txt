@@ -75,6 +75,7 @@ jupyter notebook Source Code/feature_extraction.ipynb
 ### **(3) Similarity Analysis (Optional)**
 ```bash
 jupyter notebook Source Code/similarity_analysis.ipynb
+```
 
 ### **(4) Visualization (Optional)**
 ```bash
