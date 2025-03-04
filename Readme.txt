@@ -77,7 +77,7 @@ jupyter notebook Source Code/feature_extraction.ipynb
 jupyter notebook Source Code/dataset_merging.ipynb
 ```
 
-### **(4) Similarity Analysis (Optional)**
+### **(4) Similarity Analysis**
 ```bash
 jupyter notebook Source Code/similarity_analysis.ipynb
 ```
