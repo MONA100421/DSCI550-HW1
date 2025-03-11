@@ -39,24 +39,17 @@ pip install -r Requirements.txt
 ---
 ## 5. File Structure
 ```
-│── Data/
-│   ├── haunted_places.csv
-│
-│── Source Code/
-│   ├── Preprocess.ipynb # Data Cleaning & Preprocessing Notebook
-│   ├── Script1.py
-│   ├── alcohol_abuse.tsv
-│   ├── daylight_hours_full.tsv
-│   ├── haunted_places.tsv
-│   ├── haunted_places_with_alcohol.tsv
-│   ├── haunted_places_with_alcohol_daylight.tsv
-│   ├── notebook w_4GI.ipynb
-│   ├── notebook.ipynb
-│
-│── README.md
-│── Readme.txt
-│── Requirements.txt
-│── TEAM3_BIGDATA.pdf
+Data/
+  ├── haunted_places.csv
+Source Code/
+  ├── Preprocess.ipynb # Data Cleaning & Preprocessing Notebook
+  ├── feature_extraction.ipynb
+  ├── dataset_merging.ipynb
+  ├── similarity_analysis.ipynb
+  ├── visualization.ipynb
+Requirements.txt
+README.md
+TEAM_03_BIGDATA.pdf
 ```
 ---
 ## 6. Execution Steps
