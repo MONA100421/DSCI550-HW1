@@ -68,6 +68,8 @@ Data/
   ├── haunted_religious_historic_crime_merged.tsv
   ├── haunted_religious_merged.csv
   ├── historic_sites.csv
+  ├── colheaders.conf
+  ├── encoding.conf
 Source Code/
   ├── Preprocess.ipynb # Data Cleaning & Preprocessing Notebook
   ├── feature_extraction.ipynb
