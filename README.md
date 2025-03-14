@@ -109,7 +109,7 @@ The final report will summarize findings, patterns, and visualizations.
 
 3. **Find and append external datasets to the project**  
    - **Zili**: Religious Adherents Census Data  
-   - **Chenyi**: Kaggle - US Crime Rates by County  
+   - **Chenyi**: US Crime Rates by County  
    - **Colin**: Historic Places dataset
 
 4. **Tika Similarity Analysis**  
