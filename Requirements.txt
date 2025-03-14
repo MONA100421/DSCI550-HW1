@@ -17,3 +17,4 @@ install-jdk
 libmagic
 csvkit
 editdistance
+BeautifulSoup
