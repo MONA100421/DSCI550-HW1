@@ -7,3 +7,13 @@ scipy
 jupyter
 seaborn
 matplotlib
+geopandas
+folium
+pyogrio
+datefinder
+selenium
+rtree
+install-jdk
+libmagic
+csvkit
+editdistance
