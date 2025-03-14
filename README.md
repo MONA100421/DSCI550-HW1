@@ -94,7 +94,6 @@ jupyter notebook Source Code/visualization.ipynb
 ```
 
 ### **(6) Generate Final Report**
-The final report will summarize findings, patterns, and visualizations.
 
 ---
 ## 7. Task Allocation
