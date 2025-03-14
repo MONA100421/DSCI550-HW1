@@ -103,9 +103,9 @@ The final report will summarize findings, patterns, and visualizations.
    - **Chen Yi**
 
 2. **Add required fields to the datasets and provide analysis**  
-   - **Data Cleaning & Analysis (Haunted_places): Niromikha,and Zili**  
+   - **Data Cleaning & Analysis (Haunted_places): Niromikha, and Zili**  
    - **Alcohol Dataset: Yung Yee**  
-   - **Daylight Dataset: Yung Yee,and Chen Yi**
+   - **Daylight Dataset: Yung Yee, and Chen Yi**
 
 3. **Find and append external datasets to the project**  
    - **Zili: Religious Adherents Census Data**  
@@ -113,7 +113,7 @@ The final report will summarize findings, patterns, and visualizations.
    - **Colin: Historic Places dataset**
 
 4. **Tika Similarity Analysis**  
-   - **Aadarsh,and Zili**
+   - **Aadarsh, and Zili**
 
 5. **Documentation and filing**  
-   - **Niromikha**
+   - **Niromikha, and Yung Yee**
