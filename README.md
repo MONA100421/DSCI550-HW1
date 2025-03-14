@@ -99,21 +99,21 @@ The final report will summarize findings, patterns, and visualizations.
 ---
 ## 7. Task Allocation
 
-1. **Build up and manage the GitHub repository (including readme file)**  
-   - **Chenyi**
+1. **Build up and manage the GitHub repository (including README file)**  
+   - **Chen Yi**
 
 2. **Add required fields to the datasets and provide analysis**  
-   - **Data Cleaning & Analysis (Haunted_places)**: **Niromikha**, **Zili**  
-   - **Alcohol Dataset**: **Yungyee**  
-   - **Daylight Dataset**: **Yungyee**, **Chenyi**
+   - **Data Cleaning & Analysis (Haunted_places): Niromikha,and Zili**  
+   - **Alcohol Dataset: Yung Yee**  
+   - **Daylight Dataset: Yung Yee,and Chen Yi**
 
 3. **Find and append external datasets to the project**  
    - **Zili**: Religious Adherents Census Data  
-   - **Chenyi**: US Crime Rates by County  
+   - **Chen Yi**: US Crime Rates by County  
    - **Colin**: Historic Places dataset
 
 4. **Tika Similarity Analysis**  
-   - **Aadarsh**, **Zili**
+   - **Aadarsh,and Zili**
 
 5. **Documentation and filing**  
    - **Niromikha**
