@@ -95,3 +95,24 @@ jupyter notebook Source Code/visualization.ipynb
 
 ### **(6) Generate Final Report**
 The final report will summarize findings, patterns, and visualizations.
+
+## 7. Task Allocation
+
+1. **Build up and manage the GitHub repository (including readme file)**  
+   - **Chenyi**
+
+2. **Add required fields to the datasets and provide analysis**  
+   - **Data Cleaning & Analysis (Haunted_places)**: **Niromikha**, **Zili**  
+   - **Alcohol Dataset**: **Yungyee**  
+   - **Daylight Dataset**: **Yungyee**, **Chenyi**
+
+3. **Find and append external datasets to the project**  
+   - **Zili**: Religious Adherents Census Data  
+   - **Chenyi**: Kaggle - US Crime Rates by County  
+   - **Colin**: Historic Places dataset
+
+4. **Tika Similarity Analysis**  
+   - **Aadarsh**, **Zili**
+
+5. **Documentation and filing**  
+   - **Niromikha**
