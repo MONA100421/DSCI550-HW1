@@ -108,9 +108,9 @@ The final report will summarize findings, patterns, and visualizations.
    - **Daylight Dataset: Yung Yee,and Chen Yi**
 
 3. **Find and append external datasets to the project**  
-   - **Zili**: Religious Adherents Census Data  
-   - **Chen Yi**: US Crime Rates by County  
-   - **Colin**: Historic Places dataset
+   - **Zili: Religious Adherents Census Data**  
+   - **Chen Yi: US Crime Rates by County** 
+   - **Colin: Historic Places dataset**
 
 4. **Tika Similarity Analysis**  
    - **Aadarsh,and Zili**
