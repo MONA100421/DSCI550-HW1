@@ -41,12 +41,26 @@ pip install -r Requirements.txt
 ```
 Data/
   ├── haunted_places.csv
+  ├── 2020_USRC_Summaries.xlsx
+  ├── alcohol_abuse.tsv
+  ├── cleaned_crime_data.tsv
+  ├── cleaned_haunted_places.tsv
+  ├── counties.geojson
+  ├── daylight_cleaned.csv
+  ├── daylight_hours_full.tsv
+  ├── daylight.csv
+  ├── haunted_places_cleaned.csv
+  ├── haunted_places_with_alcohol_daylight.tsv
+  ├── haunted_places_with_alcohol.tsv
+  ├── haunted_religious_crime_merged.csv
+  ├── haunted_religious_historic_crime_merged.tsv
+  ├── haunted_religious_merged.csv
+  ├── historic_sites.csv
 Source Code/
   ├── Preprocess.ipynb # Data Cleaning & Preprocessing Notebook
   ├── feature_extraction.ipynb
   ├── dataset_merging.ipynb
   ├── similarity_analysis.ipynb
-  ├── visualization.ipynb
 Requirements.txt
 README.md
 TEAM_03_BIGDATA.pdf
