@@ -87,14 +87,6 @@ jupyter notebook Source Code/dataset_merging.ipynb
 ```bash
 jupyter notebook Source Code/similarity_analysis.ipynb
 ```
-
-### **(5) Visualization (Optional)**
-```bash
-jupyter notebook Source Code/visualization.ipynb
-```
-
-### **(6) Generate Final Report**
-
 ---
 ## 7. Task Allocation
 
