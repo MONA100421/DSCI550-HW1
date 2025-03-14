@@ -24,13 +24,25 @@ This project analyzes the **Haunted Places Dataset** by integrating additional d
 ## 4. Environment & Dependencies
 
 ### **(1) Required Libraries**
-- **Python 3.x**
-- **Pandas** (Data processing)
-- **Apache Tika & Tika-Python** (Text analysis)
-- **Tika Similarity** (Data similarity)
-- **Datefinder** (Extract dates)
-- **Number Parser** (Extract numbers)
-- **NumPy, SciPy, Matplotlib, Seaborn** (Visualization & statistical analysis)
+- **tika** (Apache Tika for text extraction)
+- **number-parser** (Extract numbers)
+- **datefinder** (Extract dates)
+- **pandas** (Data processing)
+- **numpy** (Numerical operations)
+- **scipy** (Scientific computing)
+- **jupyter** (Jupyter notebook)
+- **seaborn** (Statistical data visualization)
+- **matplotlib** (Plotting)
+- **geopandas** (Geospatial data processing)
+- **folium** (Leaflet maps)
+- **pyogrio** (Geospatial data IO)
+- **selenium** (Web scraping)
+- **rtree** (Spatial indexing)
+- **install-jdk** (Java Development Kit for Apache Tika)
+- **libmagic** (File type detection)
+- **csvkit** (CSV file handling)
+- **editdistance** (Edit distance calculations)
+- **BeautifulSoup** (HTML parsing for web scraping)
 
 ### **(2) Installation**
 ```bash
