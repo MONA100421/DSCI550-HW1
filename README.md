@@ -96,6 +96,7 @@ jupyter notebook Source Code/visualization.ipynb
 ### **(6) Generate Final Report**
 The final report will summarize findings, patterns, and visualizations.
 
+---
 ## 7. Task Allocation
 
 1. **Build up and manage the GitHub repository (including readme file)**  
